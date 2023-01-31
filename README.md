@@ -9,7 +9,7 @@
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 
 ## Frameworks and Libraries
-
+- [PyTorch](https://pytorch.org/)
 ## Research Papers
 
 ## Blogs
